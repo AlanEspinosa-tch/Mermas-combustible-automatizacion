@@ -13,7 +13,7 @@ Como Analista de Finanzas e Ingeniero Matemático, estructuré la lógica financ
     *   **Verde:** $\vert{}\text{merma}\vert{} \le 0.40\%$
     *   **Amarillo:** $0.40\% \text{ a } 0.50\%$
     *   **Rojo:** $> 0.50\%$ (Fuera de norma SAT)
-*   **Modelado de Balance Volumétrico:** Cálculo riguroso de inventarios: 
+*   **Modelado de Balance Volumétrico:** Cálculo de inventarios: 
     $$\text{Saldo Final Teórico} = \text{Saldo Inicial} + \text{Compras} - \text{Ventas} + \text{Ajustes}$$
     $$\text{Merma (L)} = \text{Saldo Real} - \text{Saldo Final Teórico}$$
 
