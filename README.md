@@ -18,7 +18,7 @@ Como Analista de Finanzas e Ingeniero Matemático, estructuré la lógica financ
     $$\text{Merma (L)} = \text{Saldo Real} - \text{Saldo Final Teórico}$$
 
 ##  Implementación Técnica
-*Nota de transparencia: La definición de la lógica financiera, el diseño de las fórmulas de balance volumétrico y las reglas de control fueron desarrolladas por mí. El código ejecutable en Python (`Mermas_Colab.ipynb`) para la manipulación de datos y la automatización del archivo Excel final fue desarrollado con asistencia de Inteligencia Artificial.*
+*Nota de transparencia: La definición de la lógica financiera, el diseño de las fórmulas de balance volumétrico y las reglas de control fueron de desarrolo propio. La optimización del código en Python (`Mermas_Colab.ipynb`) para la manipulación de datos y la automatización del archivo Excel final fue desarrollado con asistencia de Inteligencia Artificial.*
 
 *   **Lenguaje:** Python (Jupyter Notebook / Google Colab).
 *   **Librerías principales:** `pandas` para limpieza y consolidación de estructuras de datos.
