@@ -33,4 +33,4 @@ La implementación y optimización de parte del código Python se realizó con a
 
 Python · Pandas · Jupyter / Google Colab · Excel
 
-> Los archivos operativos y resultados reales de la empresa no forman parte de la versión pública del repositorio. Para una demostración pública se deben utilizar datos sintéticos o anonimizados.
+> Los archivos operativos y resultados reales de la empresa no forman parte de la versión pública del repositorio. Para una demostración pública se deben utilizar datos sintéticos o anonimizados. Los presentados en el excel adjunto son con data simulada para mostrar el funcionamiento y el resultado
